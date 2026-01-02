@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Telecom Churn Insight Pro",
+  "description": "An enterprise-grade customer churn prediction and analytics platform for telecom providers, leveraging Gemini AI to analyze historical data and predict future churn risk.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
